@@ -1,0 +1,7 @@
+pluginManagement {
+    includeBuild '../conventions'
+}
+
+plugins {
+    id 'script-plugin'
+}
